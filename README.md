@@ -11,3 +11,7 @@ La idea es usar este repo como **fuente de verdad** para:
 ## Convención de trabajo
 
 Cada avance útil debe **quedar versionado en Git y publicarse en remoto** en cuanto esté listo, para no perder cambios y mantener este repositorio siempre sincronizado con el estado real de la máquina.
+
+## Inventario del equipo
+
+- [Inventario de `tuxpi4`](docs/inventario-tuxpi4.md)
